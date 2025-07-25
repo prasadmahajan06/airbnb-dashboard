@@ -19,7 +19,7 @@
 
 📊  *Dataset*
 - This project uses publicly available Airbnb data. 
-- Dataset Name- AB_NYC_2019 
+- Dataset Name- AB_NYC_2019 - <a href ="https://github.com/prasadmahajan06/airbnb-dashboard/blob/main/AB_NYC_2019.csv">Download Here</a>
 - Columns - Customer id, customer name, host_id, host_name, neighbourhood_group, room_type, price, number_of review, etc.
 
 📊 *Dashboard*
