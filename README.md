@@ -1,5 +1,5 @@
 # airbnb-dashboard
-***An interactive dashboard that visualizes Airbnb listings data to uncover insights related to pricing, bookings, and reviews***
+***An interactive dashboard that visualizes Airbnb listings data using tableu to uncover insights related to pricing, bookings, and reviews***
 
 🎯 *Objectives*
 - The main objectives of this Airbnb Dashboard project are:
