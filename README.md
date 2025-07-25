@@ -23,7 +23,7 @@
 - Columns - Customer id, customer name, host_id, host_name, neighbourhood_group, room_type, price, number_of review, etc.
 
 📊 *Dashboard*
-- Dashboard can be seen here- 
+- Dashboard can be seen- <a href ="https://github.com/prasadmahajan06/airbnb-dashboard/blob/main/airbnb.png">Here</a>
 
 
 🙋‍♂️ *Author*
